@@ -1,5 +1,5 @@
 Cafe 01
-
+```
 STEP-2:
 6a1523e1d2e4d3ed02ac
 243535c77c930a458e5d
@@ -10,3 +10,23 @@ bec415e8ea3
 061c0936ecc6d644619
 58b275464212c33f1ff9e1f8
 c22db8d742
+```
+
+update 1:
+```
+STEP-2:
+dbd8a1f93
+1e72542f896d9
+5e00e30e
+4d5b744d85190
+23462118ff
+f7cb49d78e0
+
+FINAL:
+a83bf111e
+8d7879538ff
+6445ab4f3f1ef4
+0c0ca467
+22604c13ae6
+3a103cdcaf4
+```
